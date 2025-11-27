@@ -3,41 +3,41 @@
     "http://www.w3.org/ns/anno.jsonld",
     "http://iiif.io/api/presentation/3/context.json"
   ],
-  "id": "https://dnoneill.github.io/dhsi-iiif-2024/index.json",
+  "id": "https://hsvensrud.github.io/dhsi-iiif-2024/index.json",
   "type": "Manifest",
   "items": [
     {
-      "id": "https://dnoneill.github.io/dhsi-iiif-2024/index.json/canvas/0",
+      "id": "https://hsvensrud.github.io/dhsi-iiif-2024/index.json/canvas/0",
       "type": "Canvas",
       "items": [
         {
-          "id": "https://dnoneill.github.io/dhsi-iiif-2024/index.json/canvas/0/annotationpage/0",
+          "id": "https://hsvensrud.github.io/dhsi-iiif-2024/index.json/canvas/0/annotationpage/0",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://dnoneill.github.io/dhsi-iiif-2024/index.json/canvas/0/annotation/0",
+              "id": "https://hsvensrud.github.io/dhsi-iiif-2024/index.json/canvas/0/annotation/0",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://dnoneill.github.io/dhsi-iiif-2024/cg881nm5421_0001.jpg",
+                "id": "https://hsvensrud.github.io/dhsi-iiif-2024/cen-0101.png",
                 "type": "Image",
-                "format": "image/jpeg",
+                "format": "image/png",
                 "label": {
                   "@none": [
                     "DHSI Manifest"
                   ]
                 },
-                "width": 8688,
-                "height": 10975,
+                "width": 839,
+                "height": 1119,
                 "service": [
                   {
-                    "@id": "https://dnoneill.github.io/dhsi-iiif-2024/+tiles",
+                    "@id": "https://hsvensrud.github.io/dhsi-iiif-2024/+tiles",
                     "@type": "ImageService2",
                     "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
-              "target": "https://dnoneill.github.io/dhsi-iiif-2024/index.json/canvas/0"
+              "target": "https://hsvensrud.github.io/dhsi-iiif-2024/index.json/canvas/0"
             }
           ]
         }
@@ -61,47 +61,47 @@
           }
         }
       ],
-      "width": 8688,
-      "height": 10975,
+      "width": 839,
+      "height": 1119,
       "thumbnail": [
         {
-          "id": "https://dnoneill.github.io/dhsi-iiif-2024/thumb.jpg",
+          "id": "https://hsvensrud.github.io/dhsi-iiif-2024/thumb.jpg",
           "type": "Image"
         }
       ]
     },
     {
-      "id": "https://dnoneill.github.io/dhsi-iiif-2024/index.json/canvas/1",
+      "id": "https://hsvensrud.github.io/dhsi-iiif-2024/index.json/canvas/1",
       "type": "Canvas",
       "items": [
         {
-          "id": "https://dnoneill.github.io/dhsi-iiif-2024/index.json/canvas/1/annotationpage/0",
+          "id": "https://hsvensrud.github.io/dhsi-iiif-2024/index.json/canvas/1/annotationpage/0",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://dnoneill.github.io/dhsi-iiif-2024/index.json/canvas/1/annotation/0",
+              "id": "https://hsvensrud.github.io/dhsi-iiif-2024/index.json/canvas/1/annotation/0",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://dnoneill.github.io/dhsi-iiif-2024/cg881nm5421_0002.jpg",
+                "id": "https://hsvensrud.github.io/dhsi-iiif-2024/cen-0102.png",
                 "type": "Image",
-                "format": "image/jpeg",
+                "format": "image/png",
                 "label": {
                   "@none": [
                     "DHSI Manifest"
                   ]
                 },
-                "width": 8739,
-                "height": 11034,
+                "width": 770,
+                "height": 1074,
                 "service": [
                   {
-                    "@id": "https://dnoneill.github.io/dhsi-iiif-2024/+tiles",
+                    "@id": "https://hsvensrud.github.io/dhsi-iiif-2024/+tiles",
                     "@type": "ImageService2",
                     "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
-              "target": "https://dnoneill.github.io/dhsi-iiif-2024/index.json/canvas/1"
+              "target": "https://hsvensrud.github.io/dhsi-iiif-2024/index.json/canvas/1"
             }
           ]
         }
@@ -125,11 +125,779 @@
           }
         }
       ],
-      "width": 8739,
-      "height": 11034,
+      "width": 770,
+      "height": 1074,
       "thumbnail": [
         {
-          "id": "https://dnoneill.github.io/dhsi-iiif-2024/thumb.jpg",
+          "id": "https://hsvensrud.github.io/dhsi-iiif-2024/thumb.jpg",
+          "type": "Image"
+        }
+      ]
+    },
+    {
+      "id": "https://hsvensrud.github.io/dhsi-iiif-2024/index.json/canvas/2",
+      "type": "Canvas",
+      "items": [
+        {
+          "id": "https://hsvensrud.github.io/dhsi-iiif-2024/index.json/canvas/2/annotationpage/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://hsvensrud.github.io/dhsi-iiif-2024/index.json/canvas/2/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://hsvensrud.github.io/dhsi-iiif-2024/cen-0103.png",
+                "type": "Image",
+                "format": "image/png",
+                "label": {
+                  "@none": [
+                    "DHSI Manifest"
+                  ]
+                },
+                "width": 783,
+                "height": 1111,
+                "service": [
+                  {
+                    "@id": "https://hsvensrud.github.io/dhsi-iiif-2024/+tiles",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://hsvensrud.github.io/dhsi-iiif-2024/index.json/canvas/2"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "@none": [
+          "DHSI Manifest"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "@none": [
+              "Field1"
+            ]
+          },
+          "value": {
+            "@none": [
+              "Field1"
+            ]
+          }
+        }
+      ],
+      "width": 783,
+      "height": 1111,
+      "thumbnail": [
+        {
+          "id": "https://hsvensrud.github.io/dhsi-iiif-2024/thumb.jpg",
+          "type": "Image"
+        }
+      ]
+    },
+    {
+      "id": "https://hsvensrud.github.io/dhsi-iiif-2024/index.json/canvas/3",
+      "type": "Canvas",
+      "items": [
+        {
+          "id": "https://hsvensrud.github.io/dhsi-iiif-2024/index.json/canvas/3/annotationpage/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://hsvensrud.github.io/dhsi-iiif-2024/index.json/canvas/3/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://hsvensrud.github.io/dhsi-iiif-2024/cen-0104.png",
+                "type": "Image",
+                "format": "image/png",
+                "label": {
+                  "@none": [
+                    "DHSI Manifest"
+                  ]
+                },
+                "width": 772,
+                "height": 1074,
+                "service": [
+                  {
+                    "@id": "https://hsvensrud.github.io/dhsi-iiif-2024/+tiles",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://hsvensrud.github.io/dhsi-iiif-2024/index.json/canvas/3"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "@none": [
+          "DHSI Manifest"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "@none": [
+              "Field1"
+            ]
+          },
+          "value": {
+            "@none": [
+              "Field1"
+            ]
+          }
+        }
+      ],
+      "width": 772,
+      "height": 1074,
+      "thumbnail": [
+        {
+          "id": "https://hsvensrud.github.io/dhsi-iiif-2024/thumb.jpg",
+          "type": "Image"
+        }
+      ]
+    },
+    {
+      "id": "https://hsvensrud.github.io/dhsi-iiif-2024/index.json/canvas/4",
+      "type": "Canvas",
+      "items": [
+        {
+          "id": "https://hsvensrud.github.io/dhsi-iiif-2024/index.json/canvas/4/annotationpage/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://hsvensrud.github.io/dhsi-iiif-2024/index.json/canvas/4/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://hsvensrud.github.io/dhsi-iiif-2024/cen-0105.png",
+                "type": "Image",
+                "format": "image/png",
+                "label": {
+                  "@none": [
+                    "DHSI Manifest"
+                  ]
+                },
+                "width": 786,
+                "height": 1109,
+                "service": [
+                  {
+                    "@id": "https://hsvensrud.github.io/dhsi-iiif-2024/+tiles",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://hsvensrud.github.io/dhsi-iiif-2024/index.json/canvas/4"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "@none": [
+          "DHSI Manifest"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "@none": [
+              "Field1"
+            ]
+          },
+          "value": {
+            "@none": [
+              "Field1"
+            ]
+          }
+        }
+      ],
+      "width": 786,
+      "height": 1109,
+      "thumbnail": [
+        {
+          "id": "https://hsvensrud.github.io/dhsi-iiif-2024/thumb.jpg",
+          "type": "Image"
+        }
+      ]
+    },
+    {
+      "id": "https://hsvensrud.github.io/dhsi-iiif-2024/index.json/canvas/5",
+      "type": "Canvas",
+      "items": [
+        {
+          "id": "https://hsvensrud.github.io/dhsi-iiif-2024/index.json/canvas/5/annotationpage/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://hsvensrud.github.io/dhsi-iiif-2024/index.json/canvas/5/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://hsvensrud.github.io/dhsi-iiif-2024/cen-0106.png",
+                "type": "Image",
+                "format": "image/png",
+                "label": {
+                  "@none": [
+                    "DHSI Manifest"
+                  ]
+                },
+                "width": 773,
+                "height": 1076,
+                "service": [
+                  {
+                    "@id": "https://hsvensrud.github.io/dhsi-iiif-2024/+tiles",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://hsvensrud.github.io/dhsi-iiif-2024/index.json/canvas/5"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "@none": [
+          "DHSI Manifest"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "@none": [
+              "Field1"
+            ]
+          },
+          "value": {
+            "@none": [
+              "Field1"
+            ]
+          }
+        }
+      ],
+      "width": 773,
+      "height": 1076,
+      "thumbnail": [
+        {
+          "id": "https://hsvensrud.github.io/dhsi-iiif-2024/thumb.jpg",
+          "type": "Image"
+        }
+      ]
+    },
+    {
+      "id": "https://hsvensrud.github.io/dhsi-iiif-2024/index.json/canvas/6",
+      "type": "Canvas",
+      "items": [
+        {
+          "id": "https://hsvensrud.github.io/dhsi-iiif-2024/index.json/canvas/6/annotationpage/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://hsvensrud.github.io/dhsi-iiif-2024/index.json/canvas/6/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://hsvensrud.github.io/dhsi-iiif-2024/cen-0107.png",
+                "type": "Image",
+                "format": "image/png",
+                "label": {
+                  "@none": [
+                    "DHSI Manifest"
+                  ]
+                },
+                "width": 787,
+                "height": 1111,
+                "service": [
+                  {
+                    "@id": "https://hsvensrud.github.io/dhsi-iiif-2024/+tiles",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://hsvensrud.github.io/dhsi-iiif-2024/index.json/canvas/6"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "@none": [
+          "DHSI Manifest"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "@none": [
+              "Field1"
+            ]
+          },
+          "value": {
+            "@none": [
+              "Field1"
+            ]
+          }
+        }
+      ],
+      "width": 787,
+      "height": 1111,
+      "thumbnail": [
+        {
+          "id": "https://hsvensrud.github.io/dhsi-iiif-2024/thumb.jpg",
+          "type": "Image"
+        }
+      ]
+    },
+    {
+      "id": "https://hsvensrud.github.io/dhsi-iiif-2024/index.json/canvas/7",
+      "type": "Canvas",
+      "items": [
+        {
+          "id": "https://hsvensrud.github.io/dhsi-iiif-2024/index.json/canvas/7/annotationpage/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://hsvensrud.github.io/dhsi-iiif-2024/index.json/canvas/7/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://hsvensrud.github.io/dhsi-iiif-2024/cen-0108.png",
+                "type": "Image",
+                "format": "image/png",
+                "label": {
+                  "@none": [
+                    "DHSI Manifest"
+                  ]
+                },
+                "width": 772,
+                "height": 1073,
+                "service": [
+                  {
+                    "@id": "https://hsvensrud.github.io/dhsi-iiif-2024/+tiles",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://hsvensrud.github.io/dhsi-iiif-2024/index.json/canvas/7"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "@none": [
+          "DHSI Manifest"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "@none": [
+              "Field1"
+            ]
+          },
+          "value": {
+            "@none": [
+              "Field1"
+            ]
+          }
+        }
+      ],
+      "width": 772,
+      "height": 1073,
+      "thumbnail": [
+        {
+          "id": "https://hsvensrud.github.io/dhsi-iiif-2024/thumb.jpg",
+          "type": "Image"
+        }
+      ]
+    },
+    {
+      "id": "https://hsvensrud.github.io/dhsi-iiif-2024/index.json/canvas/8",
+      "type": "Canvas",
+      "items": [
+        {
+          "id": "https://hsvensrud.github.io/dhsi-iiif-2024/index.json/canvas/8/annotationpage/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://hsvensrud.github.io/dhsi-iiif-2024/index.json/canvas/8/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://hsvensrud.github.io/dhsi-iiif-2024/cen-0109.png",
+                "type": "Image",
+                "format": "image/png",
+                "label": {
+                  "@none": [
+                    "DHSI Manifest"
+                  ]
+                },
+                "width": 788,
+                "height": 1111,
+                "service": [
+                  {
+                    "@id": "https://hsvensrud.github.io/dhsi-iiif-2024/+tiles",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://hsvensrud.github.io/dhsi-iiif-2024/index.json/canvas/8"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "@none": [
+          "DHSI Manifest"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "@none": [
+              "Field1"
+            ]
+          },
+          "value": {
+            "@none": [
+              "Field1"
+            ]
+          }
+        }
+      ],
+      "width": 788,
+      "height": 1111,
+      "thumbnail": [
+        {
+          "id": "https://hsvensrud.github.io/dhsi-iiif-2024/thumb.jpg",
+          "type": "Image"
+        }
+      ]
+    },
+    {
+      "id": "https://hsvensrud.github.io/dhsi-iiif-2024/index.json/canvas/9",
+      "type": "Canvas",
+      "items": [
+        {
+          "id": "https://hsvensrud.github.io/dhsi-iiif-2024/index.json/canvas/9/annotationpage/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://hsvensrud.github.io/dhsi-iiif-2024/index.json/canvas/9/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://hsvensrud.github.io/dhsi-iiif-2024/cen-0110.png",
+                "type": "Image",
+                "format": "image/png",
+                "label": {
+                  "@none": [
+                    "DHSI Manifest"
+                  ]
+                },
+                "width": 773,
+                "height": 1075,
+                "service": [
+                  {
+                    "@id": "https://hsvensrud.github.io/dhsi-iiif-2024/+tiles",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://hsvensrud.github.io/dhsi-iiif-2024/index.json/canvas/9"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "@none": [
+          "DHSI Manifest"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "@none": [
+              "Field1"
+            ]
+          },
+          "value": {
+            "@none": [
+              "Field1"
+            ]
+          }
+        }
+      ],
+      "width": 773,
+      "height": 1075,
+      "thumbnail": [
+        {
+          "id": "https://hsvensrud.github.io/dhsi-iiif-2024/thumb.jpg",
+          "type": "Image"
+        }
+      ]
+    },
+    {
+      "id": "https://hsvensrud.github.io/dhsi-iiif-2024/index.json/canvas/10",
+      "type": "Canvas",
+      "items": [
+        {
+          "id": "https://hsvensrud.github.io/dhsi-iiif-2024/index.json/canvas/10/annotationpage/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://hsvensrud.github.io/dhsi-iiif-2024/index.json/canvas/10/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://hsvensrud.github.io/dhsi-iiif-2024/cen-0111.png",
+                "type": "Image",
+                "format": "image/png",
+                "label": {
+                  "@none": [
+                    "DHSI Manifest"
+                  ]
+                },
+                "width": 787,
+                "height": 1111,
+                "service": [
+                  {
+                    "@id": "https://hsvensrud.github.io/dhsi-iiif-2024/+tiles",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://hsvensrud.github.io/dhsi-iiif-2024/index.json/canvas/10"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "@none": [
+          "DHSI Manifest"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "@none": [
+              "Field1"
+            ]
+          },
+          "value": {
+            "@none": [
+              "Field1"
+            ]
+          }
+        }
+      ],
+      "width": 787,
+      "height": 1111,
+      "thumbnail": [
+        {
+          "id": "https://hsvensrud.github.io/dhsi-iiif-2024/thumb.jpg",
+          "type": "Image"
+        }
+      ]
+    },
+    {
+      "id": "https://hsvensrud.github.io/dhsi-iiif-2024/index.json/canvas/11",
+      "type": "Canvas",
+      "items": [
+        {
+          "id": "https://hsvensrud.github.io/dhsi-iiif-2024/index.json/canvas/11/annotationpage/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://hsvensrud.github.io/dhsi-iiif-2024/index.json/canvas/11/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://hsvensrud.github.io/dhsi-iiif-2024/cen-0112.png",
+                "type": "Image",
+                "format": "image/png",
+                "label": {
+                  "@none": [
+                    "DHSI Manifest"
+                  ]
+                },
+                "width": 773,
+                "height": 1076,
+                "service": [
+                  {
+                    "@id": "https://hsvensrud.github.io/dhsi-iiif-2024/+tiles",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://hsvensrud.github.io/dhsi-iiif-2024/index.json/canvas/11"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "@none": [
+          "DHSI Manifest"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "@none": [
+              "Field1"
+            ]
+          },
+          "value": {
+            "@none": [
+              "Field1"
+            ]
+          }
+        }
+      ],
+      "width": 773,
+      "height": 1076,
+      "thumbnail": [
+        {
+          "id": "https://hsvensrud.github.io/dhsi-iiif-2024/thumb.jpg",
+          "type": "Image"
+        }
+      ]
+    },
+    {
+      "id": "https://hsvensrud.github.io/dhsi-iiif-2024/index.json/canvas/12",
+      "type": "Canvas",
+      "items": [
+        {
+          "id": "https://hsvensrud.github.io/dhsi-iiif-2024/index.json/canvas/12/annotationpage/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://hsvensrud.github.io/dhsi-iiif-2024/index.json/canvas/12/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://hsvensrud.github.io/dhsi-iiif-2024/cen-0113.png",
+                "type": "Image",
+                "format": "image/png",
+                "label": {
+                  "@none": [
+                    "DHSI Manifest"
+                  ]
+                },
+                "width": 788,
+                "height": 1112,
+                "service": [
+                  {
+                    "@id": "https://hsvensrud.github.io/dhsi-iiif-2024/+tiles",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://hsvensrud.github.io/dhsi-iiif-2024/index.json/canvas/12"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "@none": [
+          "DHSI Manifest"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "@none": [
+              "Field1"
+            ]
+          },
+          "value": {
+            "@none": [
+              "Field1"
+            ]
+          }
+        }
+      ],
+      "width": 788,
+      "height": 1112,
+      "thumbnail": [
+        {
+          "id": "https://hsvensrud.github.io/dhsi-iiif-2024/thumb.jpg",
+          "type": "Image"
+        }
+      ]
+    },
+    {
+      "id": "https://hsvensrud.github.io/dhsi-iiif-2024/index.json/canvas/13",
+      "type": "Canvas",
+      "items": [
+        {
+          "id": "https://hsvensrud.github.io/dhsi-iiif-2024/index.json/canvas/13/annotationpage/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://hsvensrud.github.io/dhsi-iiif-2024/index.json/canvas/13/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://hsvensrud.github.io/dhsi-iiif-2024/cen-0114.png",
+                "type": "Image",
+                "format": "image/png",
+                "label": {
+                  "@none": [
+                    "DHSI Manifest"
+                  ]
+                },
+                "width": 787,
+                "height": 1074,
+                "service": [
+                  {
+                    "@id": "https://hsvensrud.github.io/dhsi-iiif-2024/+tiles",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://hsvensrud.github.io/dhsi-iiif-2024/index.json/canvas/13"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "@none": [
+          "DHSI Manifest"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "@none": [
+              "Field1"
+            ]
+          },
+          "value": {
+            "@none": [
+              "Field1"
+            ]
+          }
+        }
+      ],
+      "width": 787,
+      "height": 1074,
+      "thumbnail": [
+        {
+          "id": "https://hsvensrud.github.io/dhsi-iiif-2024/thumb.jpg",
           "type": "Image"
         }
       ]
@@ -158,7 +926,7 @@
   "description": "DHSI demo",
   "thumbnail": [
     {
-      "id": "https://dnoneill.github.io/dhsi-iiif-2024/thumb.jpg",
+      "id": "https://hsvensrud.github.io/dhsi-iiif-2024/thumb.jpg",
       "type": "Image"
     }
   ]
